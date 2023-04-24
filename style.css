@@ -11,7 +11,8 @@ ul {
   padding: 0px;
 }
 
-input, button{
+input, 
+button{
   outline: none;
 }
 
@@ -49,7 +50,8 @@ button {
   margin: 0 auto 0;
 }
 
-.label--task, .input--task {
+.label--task, 
+.input--task {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -124,7 +126,8 @@ button {
   font-size: 18px;
 }
 
-.items-list .input--task, .label--task {
+.items-list .input--task, 
+.label--task {
   width: 226px;;
 }
 
