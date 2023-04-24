@@ -32,6 +32,7 @@ button {
 
 .header__link {
   font-family: "Fantasy", cursive;
+  font-weight: 300;
 }
 
 @media (max-width:768px) {
